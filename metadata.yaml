@@ -1,5 +1,8 @@
 _repo: Hartmann-the-Anarchist-Or-The-Doom-of-the-Great-City_57323
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57323-h/images/cover.jpg
 creator:
   author:
     agent_name: Fawcett, E. Douglas (Edward Douglas)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49317
     wikipedia: https://en.wikipedia.org/wiki/Edward_Douglas_Fawcett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57323#Hartmann-the-Anarchist-Or-The-Doom-of-the-Great-City
 gutenberg_bookshelf: Precursors of Science Fiction
 gutenberg_issued: '2018-06-14'
 gutenberg_type: Text
